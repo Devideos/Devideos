@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou o David Pereira!  
 
-<!--
-**Devideos/Devideos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Desenvolvedor Web & Estudante de Engenharia de Software**  
 
-Here are some ideas to get you started:
+💡 Apaixonado por tecnologia, inovação e inteligência artificial  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![David GitHub stats](https://github-readme-stats.vercel.app/api?username=Devideos&showicons=true&theme=dracula)
+
+## 🚀 Sobre mim  
+- 🎓 Estudante de Engenharia de Software  
+- 💻 Experiência em desenvolvimento web (HTML, CSS, JavaScript)  
+- 🐍 Conhecimento em Python  
+- 🤖 Explorando Inteligência Artificial para novos projetos
+
+---
+
+## 🛠️ Tecnologias & Ferramentas  
+### 🚀 Desenvolvimento Web  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+### 🐍 Linguagens  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+### ⚡ Outras Tecnologias  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+---
+
+## 📫 Onde me encontrar  
+📷 [Instagram](https://www.instagram.com/Devideos01)  
+💼 [LinkedIn](https://www.linkedin.com/in/davidpereira-dev/)  
+
+📌 Sempre aberto a colaborações e novas oportunidades!  
