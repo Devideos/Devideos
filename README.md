@@ -4,7 +4,7 @@
 
 💡 Apaixonado por tecnologia, inovação e inteligência artificial  
 
-![David GitHub stats](https://github-readme-stats.vercel.app/api?username=Devideos&showicons=true&theme=dracula)
+---
 
 ## 🚀 Sobre mim  
 - 🎓 Estudante de Engenharia de Software  
