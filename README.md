@@ -8,7 +8,8 @@
 
 ## 🚀 Sobre mim  
 - 🎓 Estudante de Engenharia de Software  
-- 💻 Experiência em desenvolvimento web (HTML, CSS, JavaScript)  
+- 💻 Experiência em desenvolvimento web (HTML, CSS, JavaScript)
+- 🐧 Conhecimento em Linux
 - 🐍 Conhecimento em Python  
 - 🤖 Explorando Inteligência Artificial para novos projetos
 
